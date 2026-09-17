@@ -1,0 +1,19 @@
+# Môi trường & biến môi trường
+.env
+venv/
+.venv/
+env/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data & Database
+data/
+chroma_db/
+
+# IDE / Editor
+.vscode/
+.idea/

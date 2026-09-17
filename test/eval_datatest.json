@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Nhà hát giả tưởng tháng 9 gồm những nguyên tố nào?",
+        "ground_truth": "Hydro, Electro, và Dendro"
+    },
+    {
+        "question": "Những nhân vật nào được dùng thử trong Nhà hát tháng 9?",
+        "ground_truth": "Columbina, Xingqiu, Cyno, Kuki Shinobu, Lauma, Kaveh"
+    }
+]
